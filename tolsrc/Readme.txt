@@ -1,22 +1,22 @@
-tolsrc for OS X ƒƒ‚   @@@@@@@@@@2007/02/21@‚ ‚Á‚«‚¡
+tolsrc for OS X ãƒ¡ãƒ¢   ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€2007/02/21ã€€ã‚ã£ããƒ
 
-EOSŽ©ì“ü–å•t‘®CD‚Ìtolsrc‚Ì’†‚Åƒo[ƒWƒ‡ƒ“ƒAƒbƒv‚µ‚½ƒc[ƒ‹
-@@edimg   (0i ¨ 0j)
-@@obj2bim (4b(c) ¨ 4d)
-@@t5lzma  (MonaOS‚Ì‚à‚Ì‚ðŽg—pElzmaƒx[ƒXƒo[ƒWƒ‡ƒ“ 4.03 ¨ 4.06)
+ãƒ»OSè‡ªä½œå…¥é–€ä»˜å±žCDã®tolsrcã®ä¸­ã§ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‚¢ãƒƒãƒ—ã—ãŸãƒ„ãƒ¼ãƒ«
+ã€€ã€€edimg   (0i â†’ 0j)
+ã€€ã€€obj2bim (4b(c) â†’ 4d)
+ã€€ã€€t5lzma  (MonaOSã®ã‚‚ã®ã‚’ä½¿ç”¨ãƒ»lzmaãƒ™ãƒ¼ã‚¹ãƒãƒ¼ã‚¸ãƒ§ãƒ³ 4.03 â†’ 4.06)
 
-EOS XŒü‚¯‚É‰ü—Ç‚·‚é‚É‚ ‚½‚Á‚Ä‰ü—Ç‚µ‚½‚Æ‚±‚ë
-@@Ehideyosi‚³‚ñ‚Ìƒpƒbƒ`‚ð“–‚Ä‚½
-@@@http://thebbl.hideyosi.com/modules/bwiki/tolset/index.php?tolset
-@@Ego_0023s/gcc/toplev.c‚ð-O1‚ÅƒRƒ“ƒpƒCƒ‹‚·‚é‚æ‚¤‚É•ÏX
+ãƒ»OS Xå‘ã‘ã«æ”¹è‰¯ã™ã‚‹ã«ã‚ãŸã£ã¦æ”¹è‰¯ã—ãŸã¨ã“ã‚
+ã€€ã€€ãƒ»hideyosiã•ã‚“ã®ãƒ‘ãƒƒãƒã‚’å½“ã¦ãŸ
+ã€€ã€€ã€€http://thebbl.hideyosi.com/modules/bwiki/tolset/index.php?tolset
+ã€€ã€€ãƒ»go_0023s/gcc/toplev.cã‚’-O1ã§ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã™ã‚‹ã‚ˆã†ã«å¤‰æ›´
 
-Eƒ‰ƒCƒZƒ“ƒX‚É‚Â‚¢‚Ä
-@@t5lzma‚ÍLGPLƒ‰ƒCƒZƒ“ƒX‚Å‚·B
-@@‚»‚Ì‘¼‚É‚Â‚¢‚Ä‚ÍKL-01‚Å‚·B
+ãƒ»ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã«ã¤ã„ã¦
+ã€€ã€€t5lzmaã¯LGPLãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã§ã™ã€‚
+ã€€ã€€ãã®ä»–ã«ã¤ã„ã¦ã¯KL-01ã§ã™ã€‚
 
-EƒRƒ“ƒpƒCƒ‹‚Ì‚µ‚©‚½
-@@tolsrc“à‚Åmake install‚ðŽÀs‚µ‚Ä‚­‚¾‚³‚¢BÅŒã‚Ü‚ÅƒRƒ“ƒpƒCƒ‹‚ª‚Å‚«‚½‚çA
-@OKƒfƒBƒŒƒNƒgƒŠ‚Éƒc[ƒ‹‚ª‚·‚×‚Ä“ü‚è‚Ü‚·B
+ãƒ»ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã®ã—ã‹ãŸ
+ã€€ã€€tolsrcå†…ã§make installã‚’å®Ÿè¡Œã—ã¦ãã ã•ã„ã€‚æœ€å¾Œã¾ã§ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ãŒã§ããŸã‚‰ã€
+ã€€OKãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«ãƒ„ãƒ¼ãƒ«ãŒã™ã¹ã¦å…¥ã‚Šã¾ã™ã€‚
 
-E‚¨–â‚¢‡‚í‚¹
-@akkiesoft::marokun.net (::‚Í@‚É‚©‚¦‚Ä‚­‚¾‚³‚¢B)
+ãƒ»ãŠå•ã„åˆã‚ã›
+ã€€akkiesoft::marokun.net (::ã¯@ã«ã‹ãˆã¦ãã ã•ã„ã€‚)

@@ -61,7 +61,7 @@ libcpp.lib : $(LIBCPP_OBJS) Makefile ../include/rules.mak
 libbackend.lib : $(OBJS)
 	$(LIBRARIAN) $@ $(OBJS)
 
-# -Os‚Å‚ÍƒRƒ“ƒpƒCƒ‹‚Å‚«‚È‚¢‚Ì‚Å‰ñ”ğ By Akkie
+# -Osã§ã¯ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«ã§ããªã„ã®ã§å›é¿ By Akkie
 toplev.o : toplev.c Makefile ../include/rules.mak
 	$(GCC) -c -O1 -DIN_GCC -DHAVE_CONFIG_H -I../include -o toplev.o toplev.c
 
